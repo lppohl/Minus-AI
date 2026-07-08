@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-{% include figure.html img="image.png" alt="discription of image" caption="" width="150%" %}
+{% include figure.html img="image.png" alt="discription of image" caption="Sinem Görücü / https://betterimagesofai.org / https://creativecommons.org/licenses/by/4.0/" width="150%" %}
 
 # Minus AI
 
